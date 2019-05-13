@@ -10,10 +10,10 @@ $color-9:#62A783;
 $color-10:#F82F54;
 $color-11:#8FC567;
 
+@import 'reset';
+
 * {
     box-sizing: border-box;
-    margin: 0;
-    padding: 0;
 }
 
 body {
